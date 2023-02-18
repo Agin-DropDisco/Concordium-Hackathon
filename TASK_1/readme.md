@@ -1,17 +1,24 @@
 # TASK 1: Setup Development Environment
 
 ## Install Rust 
-
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 <p align="center">
 <img src="./install-rust.png"/>
 </p>
+## Add Wasm
+```
+rustup target add wasm32-unknown-unknown
+```
 
 
 ## Download & Install cargo-concordium
 - Install the package here [LINK](https://developer.concordium.software/en/mainnet/net/installation/downloads-testnet.html#cargo-concordium-testnet)
 - Move the package to your path 
+- 
 ```
-chmod +x concordium-client
+sudo chmod +x concordium-client
 mv cargo-concordium ~/.cargo/bin
 ```
 
