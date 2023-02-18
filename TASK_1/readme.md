@@ -20,9 +20,10 @@ mv cargo-concordium ~/.cargo/bin
 </p>
 
 
+
+## Install Concordium-client
 - Instal package concordium client [LINK](https://developer.concordium.software/en/mainnet/net/installation/downloads-testnet.html#concordium-node-and-client-download-testnet)
 - Move the package to your path. see "Install cargo-concordium"
-## Install Concordium-client
 <p align="center">
 <img src="./instal-concordium-client.png"/>
 </p>
@@ -31,7 +32,6 @@ mv cargo-concordium ~/.cargo/bin
 
 ## Install the Web Wallet /Extensions and Create a Testnet account
 - Download here [LINK](https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US)
-
 <p align="center">
 <img src="./wallet-testnet.png"/>
 </p>
