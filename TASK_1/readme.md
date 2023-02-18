@@ -30,7 +30,7 @@ mv cargo-concordium ~/.cargo/bin
 
 
 
-## Install the Web Wallet /Extensions and Create a Testnet account
+## Install the Web Wallet /Extensions,  Create a Testnet account and Acquiring testnet CCD via the CCD faucet
 - Download here [LINK](https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US)
 <p align="center">
 <img src="./wallet-testnet.png"/>
