@@ -7,7 +7,7 @@
 </p>
 
 
-## Install cargo-concordium
+## Download & Install cargo-concordium
 - Install the package here [LINK](https://developer.concordium.software/en/mainnet/net/installation/downloads-testnet.html#cargo-concordium-testnet)
 - Move the package to your path 
 ```
